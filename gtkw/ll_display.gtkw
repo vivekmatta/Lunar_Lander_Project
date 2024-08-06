@@ -1,0 +1,50 @@
+[*]
+[*] GTKWave Analyzer v3.3.114 (w)1999-2023 BSI
+[*]
+[dumpfile] "ll_display.fst"
+[savefile] "ll_display.gtkw"
+[timestart] 1
+[size] 1484 848
+[pos] -1 -1
+*-2.679284 1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] LL_DISPLAY.
+[sst_width] 278
+[signals_width] 142
+[sst_expanded] 1
+[sst_vpaned_height] 244
+@28
+LL_DISPLAY.clk
+@29
+LL_DISPLAY.rst
+@22
+LL_DISPLAY.disp_ctrl[3:0]
+@28
+LL_DISPLAY.land
+LL_DISPLAY.crash
+@200
+-
+@22
+LL_DISPLAY.alt[15:0]
+LL_DISPLAY.vel[15:0]
+LL_DISPLAY.fuel[15:0]
+LL_DISPLAY.thrust[15:0]
+@200
+-
+@22
+LL_DISPLAY.ss7[7:0]
+LL_DISPLAY.ss6[7:0]
+LL_DISPLAY.ss5[7:0]
+@200
+-
+@22
+LL_DISPLAY.ss3[7:0]
+LL_DISPLAY.ss2[7:0]
+LL_DISPLAY.ss1[7:0]
+LL_DISPLAY.ss0[7:0]
+@200
+-
+@28
+LL_DISPLAY.green
+LL_DISPLAY.red
+[pattern_trace] 1
+[pattern_trace] 0
