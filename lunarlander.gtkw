@@ -1,0 +1,49 @@
+[*]
+[*] GTKWave Analyzer v3.3.114 (w)1999-2023 BSI
+[*]
+[dumpfile] "lunarlander.vcd"
+[savefile] "lunarlander.gtkw"
+[timestart] 0
+[size] 1661 1006
+[pos] -7 -4
+*-36.900002 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] tb_lunarlander.
+[sst_width] 278
+[signals_width] 94
+[sst_expanded] 1
+[sst_vpaned_height] 299
+@28
+tb_lunarlander.hz100
+tb_lunarlander.reset
+@22
+tb_lunarlander.ll.in[19:0]
+@200
+-
+@28
+tb_lunarlander.ss7[6:0]
+tb_lunarlander.ss6[6:0]
+tb_lunarlander.ss5[6:0]
+@22
+tb_lunarlander.ss3[6:0]
+@c00022
+tb_lunarlander.ss2[6:0]
+@28
+(0)tb_lunarlander.ss2[6:0]
+(1)tb_lunarlander.ss2[6:0]
+(2)tb_lunarlander.ss2[6:0]
+(3)tb_lunarlander.ss2[6:0]
+(4)tb_lunarlander.ss2[6:0]
+(5)tb_lunarlander.ss2[6:0]
+(6)tb_lunarlander.ss2[6:0]
+@1401200
+-group_end
+@22
+tb_lunarlander.ss1[6:0]
+tb_lunarlander.ss0[6:0]
+@200
+-
+@28
+tb_lunarlander.red
+tb_lunarlander.green
+[pattern_trace] 1
+[pattern_trace] 0
